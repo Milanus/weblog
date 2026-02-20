@@ -1,0 +1,13 @@
+title: weblog
+description: A blog for thoughts and ideas.
+url: "https://milanus.github.io"
+baseurl: "/weblog"
+
+theme: minima
+
+author:
+  name: Milanus
+
+permalink: /posts/:year/:month/:day/:title/
+
+show_excerpts: true
